@@ -5,7 +5,7 @@ For 15 consecutive days, I’ll solve and upload **3 Data Structures & Algorithm
 
 ---
 
-## 📌 GitHub Repository Structure
+## 📌 Problems Folder Structure
 
 Each folder is named after the problem's ID and title (LeetCode-style), and contains clean, well-documented Java solutions.
 
