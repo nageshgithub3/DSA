@@ -12,6 +12,9 @@ Each folder is named after the problem's ID and title (LeetCode-style), and cont
 # 📁 1-two-sum
 # 📁 26-remove-duplicates-from-sorted-array
 # 📁 53-maximum-subarray
+# 📁 121-Best Time to Buy and Sell Stock
+# 📁 125-Valid Palindrome
+# 📁 238-Product of Array Except Self
 
 
 ---
@@ -21,7 +24,7 @@ Each folder is named after the problem's ID and title (LeetCode-style), and cont
 | Day   | Problem 1 | Problem 2 | Problem 3 |
 |-------|-----------|-----------|-----------|
 | Day 1 | [Two Sum](./1-two-sum) | [Remove Duplicates](./26-remove-duplicates-from-sorted-array) | [Maximum Subarray](./53-maximum-subarray) |
-| Day 2 | ⏳ Coming Soon | ⏳ Coming Soon | ⏳ Coming Soon |
+| Day 2 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Valid Palindrome](./125-valid-palindrome) | [Product of Array Except Self](./238-product-of-array-except-self) |
 | Day 3 | ⏳ Coming Soon | ⏳ Coming Soon | ⏳ Coming Soon |
 | ...   |             |             |             |
 | Day 15 | 🚀 Final Day | 🚀 Final Day | 🚀 Final Day |
