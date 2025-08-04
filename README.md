@@ -15,6 +15,9 @@ Each folder is named after the problem's ID and title (LeetCode-style), and cont
 # 📁 121-Best Time to Buy and Sell Stock
 # 📁 125-Valid Palindrome
 # 📁 238-Product of Array Except Self
+# 📂 242-valid-anagram
+# 📂 28-find-index-of-first-occurrence
+# 📂 49-group-anagrams
 
 
 ---
@@ -25,7 +28,8 @@ Each folder is named after the problem's ID and title (LeetCode-style), and cont
 |-------|-----------|-----------|-----------|
 | Day 1 | [Two Sum](./1-two-sum) | [Remove Duplicates](./26-remove-duplicates-from-sorted-array) | [Maximum Subarray](./53-maximum-subarray) |
 | Day 2 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Valid Palindrome](./125-valid-palindrome) | [Product of Array Except Self](./238-product-of-array-except-self) |
-| Day 3 | ⏳ Coming Soon | ⏳ Coming Soon | ⏳ Coming Soon |
+| Day 3 | [Valid Anagram](./242-valid-anagram) | [Find Index of First Occurrence](./28-find-index-of-first-occurrence) | [Group Anagrams](./49-group-anagrams) |
+| Day 4 | ⏳ Coming Soon | ⏳ Coming Soon | ⏳ Coming Soon |
 | ...   |             |             |             |
 | Day 15 | 🚀 Final Day | 🚀 Final Day | 🚀 Final Day |
 
