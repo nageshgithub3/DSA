@@ -27,6 +27,9 @@ Each folder is named after the problem's ID and title (LeetCode-style), and cont
 # 📂 3-longest-substring-without-repeating-characters
 # 📂 167-two-sum-ii- input is sorted
 # 📂 35-search-insert-position
+# 📂 456. 132 Pattern
+# 📂 92. Reverse Linked List II
+# 📂 239. Sliding Window Maximum
 
 
 ---
@@ -41,7 +44,8 @@ Each folder is named after the problem's ID and title (LeetCode-style), and cont
 | Day 4 | [Longest Palindromic Substring](./5-longest-palindromic-substring) | [Valid Parentheses](./20-valid-parentheses) | [Subarray Sum Equals K](./560-subarray-sum-equals-k) |
 | Day 5 | [Linked List Cycle](./141-linked-list-cycle) | [Trapping Rain Water](./42-trapping-rain-water) | [Binary Search](./704-binary-search) |
 | Day 6 | [Search Insert Position](./35-search-insert-position) | [Two Sum II](./167-two-sum-ii) | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters) |
-| Day 7 | ⏳ Coming Soon | ⏳ Coming Soon | ⏳ Coming Soon |
+| Day 7 | [Sliding Window Maximum](./239-sliding-window-maximum) | [132 Pattern](./456-132-pattern) | [Reverse Linked List II](./92-reverse-linked-list-ii) |
+| Day 8 | ⏳ Coming Soon | ⏳ Coming Soon | ⏳ Coming Soon |
 | ...   |             |             |             |
 | Day 15 | 🚀 Final Day | 🚀 Final Day | 🚀 Final Day |
 
