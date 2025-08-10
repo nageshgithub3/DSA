@@ -30,6 +30,9 @@ Each folder is named after the problem's ID and title (LeetCode-style), and cont
 # 📂 456. 132 Pattern
 # 📂 92. Reverse Linked List II
 # 📂 239. Sliding Window Maximum
+# 📂 71 Simplify Path
+# 📂 227 Basic Calculator ll
+# 📂 394 Decode String
 
 
 ---
@@ -45,7 +48,8 @@ Each folder is named after the problem's ID and title (LeetCode-style), and cont
 | Day 5 | [Linked List Cycle](./141-linked-list-cycle) | [Trapping Rain Water](./42-trapping-rain-water) | [Binary Search](./704-binary-search) |
 | Day 6 | [Search Insert Position](./35-search-insert-position) | [Two Sum II](./167-two-sum-ii) | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters) |
 | Day 7 | [Sliding Window Maximum](./239-sliding-window-maximum) | [132 Pattern](./456-132-pattern) | [Reverse Linked List II](./92-reverse-linked-list-ii) |
-| Day 8 | ⏳ Coming Soon | ⏳ Coming Soon | ⏳ Coming Soon |
+| Day 8 | [Simplify Path](./71-simplify-path) | [Basic Calculator II](./227-basic-calculator-ii) | [Decode String](./394-decode-string) |
+| Day 9 | ⏳ Coming Soon | ⏳ Coming Soon | ⏳ Coming Soon |
 | ...   |             |             |             |
 | Day 15 | 🚀 Final Day | 🚀 Final Day | 🚀 Final Day |
 
